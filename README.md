@@ -3,9 +3,10 @@
 
 
 
+<h2>I'm a Student, and Developer!</h2>
 
-- 🎓 I’m currently learning at Tallinna Tööstushariduskeskus for Software Development
-- ✉ How to reach me: <a href="mailto:farges314@gmail.com">farges314@gmail.com</a>
+• 🎓 I’m currently learning at Tallinna Tööstushariduskeskus for Software Development
+• ✉ How to reach me: <a href="mailto:farges314@gmail.com">farges314@gmail.com</a>
 
 <hr></hr>
 
