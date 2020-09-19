@@ -6,9 +6,11 @@
 <h2>I'm a Student, and Developer!</h2>
 • 💼 My study portfolio: <a href="vladnr.wordpress.com">Site</a>
 <br>
-• 🎓 I’m currently learning at <a href="https://www.tthk.ee">Tallinna Tööstushariduskeskus</a> for Software Development
-<br>
 • ✉ How to reach me: <a href="mailto:farges314@gmail.com">farges314@gmail.com</a>
+<br>
+• 🎓 I’m currently learning at <a href="https://www.tthk.ee">Tallinna Tööstushariduskeskus</a> for Software Development
+
+
 
 <hr></hr>
 
