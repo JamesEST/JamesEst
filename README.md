@@ -16,11 +16,9 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=7i9zckkms3dez7ql3dxod5ysi&cover_image=false)](https://spotify-github-profile.vercel.app/api/view?uid=7i9zckkms3dez7ql3dxod5ysi&redirect=true)
 
-
-
 <hr></hr>
 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" width=15><h2>GitHub Stats</h2>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" width=15><a font=20>GitHub Stats</a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JamesEst&layout=Demo&theme=algolia)](https://github.com/JamesEst/github-readme-stats)
 <br>
