@@ -10,7 +10,8 @@
 <hr></hr>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JamesEst&layout=Demo&theme=algolia)](https://github.com/JamesEst/github-readme-stats)
-<br>
+
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JamesEst&show_icons=true&theme=algolia)
 
 
