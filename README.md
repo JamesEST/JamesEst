@@ -19,7 +19,8 @@
 
 
 <hr></hr>
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />GitHub Stats
+
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" width=15>GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JamesEst&layout=Demo&theme=algolia)](https://github.com/JamesEst/github-readme-stats)
 <br>
