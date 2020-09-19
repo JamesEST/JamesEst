@@ -18,7 +18,7 @@
 
 <hr></hr>
 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" width=15>>GitHub Stats
+<h2>GitHub Stats</h2>
 
 
 
