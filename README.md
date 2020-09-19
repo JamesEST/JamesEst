@@ -9,5 +9,6 @@
 <hr>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JamesEst&show_icons=true&theme=radical)
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JamesEst&layout=Demo)](https://github.com/JamesEst/github-readme-stats)
 
