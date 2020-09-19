@@ -20,7 +20,7 @@
 
 <hr></hr>
 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" width=15>GitHub Stats
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" width=15><h2>GitHub Stats</h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JamesEst&layout=Demo&theme=algolia)](https://github.com/JamesEst/github-readme-stats)
 <br>
