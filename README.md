@@ -10,7 +10,9 @@
 <br>
 • 🎓 I’m currently learning at <a href="https://www.tthk.ee">Tallinna Tööstushariduskeskus</a> for Software Development
 
-### Spotify Playing 🎧
+<hr></hr>
+
+<h2>Spotify Playing 🎧</h2>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=7i9zckkms3dez7ql3dxod5ysi&cover_image=false)](https://spotify-github-profile.vercel.app/api/view?uid=7i9zckkms3dez7ql3dxod5ysi&redirect=true)
 
