@@ -20,6 +20,9 @@
 
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" width=15><a font=20>GitHub Stats</a>
 
+<a src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg">Посмотрите на мою фотографию!</a>
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JamesEst&layout=Demo&theme=algolia)](https://github.com/JamesEst/github-readme-stats)
 <br>
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JamesEst&show_icons=true&theme=algolia)
