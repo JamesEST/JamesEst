@@ -5,7 +5,7 @@
 
 <h2>I'm a Student, and Developer!</h2>
 
-• 🎓 I’m currently learning at Tallinna Tööstushariduskeskus for Software Development
+• 🎓 I’m currently learning at <a href="https://www.tthk.ee">Tallinna Tööstushariduskeskus</a> for Software Development
 <br>
 • ✉ How to reach me: <a href="mailto:farges314@gmail.com">farges314@gmail.com</a>
 
