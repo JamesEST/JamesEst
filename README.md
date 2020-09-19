@@ -12,7 +12,7 @@
 
 ### Spotify Playing 🎧
 
-![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=Farges&cover_image=true)]
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=7i9zckkms3dez7ql3dxod5ysi&cover_image=false)](https://github.com/kittinan/spotify-github-profile)
 
 
 
