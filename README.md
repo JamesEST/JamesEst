@@ -12,7 +12,7 @@
 
 ### Spotify Playing 🎧
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=7i9zckkms3dez7ql3dxod5ysi&cover_image=false)]
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=7i9zckkms3dez7ql3dxod5ysi&cover_image=false)](https://spotify-github-profile.vercel.app/api/view?uid=7i9zckkms3dez7ql3dxod5ysi&redirect=true)
 
 
 
